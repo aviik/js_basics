@@ -1,0 +1,19 @@
+body{
+  font: 15px 'Arial', sans-serif  ;
+}
+
+button{
+  border-radius: 7px;
+  outline: 0;
+  padding: 0.5em;
+  background-color: #5276af;
+  /*border: solid 1px;*/
+  /*border-color: rgba(0, 0, 0, .1);*/
+}
+input{
+  padding: 0.5em;
+  border-radius: 7px;
+}
+.wrapper{
+  border-bottom: 1px solid black;
+}
